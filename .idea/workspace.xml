@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78ffaef0-a946-45cc-982b-5107ace0b5f5" name="Changes" comment="start" />
+    <list default="true" id="78ffaef0-a946-45cc-982b-5107ace0b5f5" name="Changes" comment="start">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Test" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -114,22 +119,22 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="COLUMN_ID_WIDTH">
-                <map>
-                  <entry key="Table.Default.Author.ColumnIdWidth" value="115" />
-                  <entry key="Table.Default.Date.ColumnIdWidth" value="93" />
-                  <entry key="Table.Space.CommitStatus.ColumnIdWidth" value="16" />
-                </map>
-              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="marche" />
                       </list>
                     </value>
                   </entry>
+                </map>
+              </option>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="115" />
+                  <entry key="Table.Default.Date.ColumnIdWidth" value="93" />
+                  <entry key="Table.Space.CommitStatus.ColumnIdWidth" value="16" />
                 </map>
               </option>
             </State>
@@ -141,6 +146,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="start" />
-    <option name="LAST_COMMIT_MESSAGE" value="start" />
+    <MESSAGE value="test 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="test 3" />
   </component>
 </project>
