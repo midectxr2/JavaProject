@@ -8,6 +8,8 @@ public class Main {
      */
     public static void main(String[] args) {
         int i=1;
-        System.out.println("Hello world!" + i);
+        String j="gros con";
+        System.out.println("Hello world!" + i+ j);
     }
+
 }
