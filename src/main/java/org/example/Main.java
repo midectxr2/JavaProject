@@ -8,7 +8,7 @@ public class Main {
      */
     public static void main(String[] args) {
         int i=1;
-        String j="baka";
+        String j="efface pas grs con";
         System.out.println("Hello world!" + i+ j);
     }
 
