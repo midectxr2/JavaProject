@@ -7,7 +7,7 @@ public class Main {
      * @param args argument de test
      */
     public static void main(String[] args) {
-        int i=0;
+        int i=1;
         System.out.println("Hello world!" + i);
     }
 }
