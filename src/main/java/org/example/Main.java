@@ -8,7 +8,7 @@ public class Main {
      */
     public static void main(String[] args) {
         int i=1;
-        String j="efface pas gros con";
+        String j="marche";
         System.out.println("Hello world!" + i+ j);
     }
 
